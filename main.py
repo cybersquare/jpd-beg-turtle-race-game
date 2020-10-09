@@ -74,4 +74,3 @@ for turn in range(100):
   turtle3.forward(randint(1,5))
   turtle4.forward(randint(1,5))
   
-#https://www.geeksforgeeks.org/turtle-programming-python/
